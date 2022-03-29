@@ -1,23 +1,18 @@
-![uBuild Blocks](uploads/2018/06/21/theme.png)
+# WALeadApp  2022
+Aplikasi desktop untuk membantu Anda mengirim banyak pesan WA custom tanpa perlu menyimpan kontak di hp.
+Gratis, Open Source dan Privat
 
-# uBuild Jekyll Theme
+## Lebih Mudah Impor Kontak   dengan menggunakan file excel atau csv
+Menambahkan kontak melalui file excel atau csv sehingga tidak perlu repot-repot menyimpan nomor di hp Anda.
 
-[View the announcement post on Forestry.io](https://forestry.io/blog/ubuild-a-new-theme-for-static-sites-using-blocks/#/)
+## Sesuaikan Pesan Anda  dengan menggunakan pesan broadcast yang dapat di-custom
+Konten pesan dapat disesuaikan dengan data pada file excel, semudah Anda melakukan mail merge.
 
-`ubuild-jekyll` is a Jekyll theme designed to work with [Forestry](https://forestry.io/)'s [Blocks](https://forestry.io/blog/blocks-give-your-editors-the-power-to-build-pages/) feature.  This theme provides a set of page-level components and a pre-configured Forestry Blocks UI that will empower content editors to construct their own webpages.
+## Gratis & Open Source untuk personal dan UMKM
+WALeadApp merupakan aplikasi yang Gratis dan Open Source. Cocok untuk anda yang mulai bergeser menggunakan WA sebagai media komunikasi dengan pelanggan.
 
-## Quick Start
+## Data Privasi ada di tangan Anda
+Cukup install di komputer/laptop personal dan untuk menggunakannya Anda hanya perlu masuk ke Web WhatsApp. Jadi tidak memerlukan akun untuk masuk ke situs lainnya. Hal ini menjadikan Privasi Data Anda akan lebih aman.
 
-[![Import this project into Forestry](https://assets.forestry.io/import-to-forestry.svg)](https://app.forestry.io/quick-start?repo=forestryio/ubuild-jekyll&provider=github&engine=jekyll)
 
-*This option is available for Github and Gitlab users only. If you use Bitbucket please use the Alternative Setup*
-
-## Alternative Setup
-
-1. Fork this repo
-2. [Sign up for a free Forestry account](https://app.forestry.io/signup)
-3. [Import your repo](https://forestry.io/docs/quickstart/setup-site/#import-site-from-repo) as a new Jekyll project
-
-To use the page builder, select the **Page Builder** template when creating a new page.
-
-# waleadapp
+Made with ❤︎ in Pekalongan | © 2022 WALeadAppp Team
