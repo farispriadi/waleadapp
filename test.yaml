@@ -1,0 +1,9 @@
+app: WALeadApp
+attachments: []
+collect: true
+contacts: '[{"name":"Sample Name","phone":"6282121325532","status":"Sent","attachment_status":"No
+  Attachment","saved_name":"+62 821-2132-5532","token":{"data_id":"true_6282121325532@c.us_3EB02241157CE3D5E7B9_out"},"sent_date":"2022-01-18
+  04:04:42","replied":false,"responses":"info;message\n","row":0.0}]'
+project: Untitled
+template: halo {name}
+version: 1.0

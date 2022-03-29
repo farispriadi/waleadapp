@@ -1,0 +1,14 @@
+Log Building Python to Exe Setup using Docker, PyInstaller and Inno Setup
+Date : 2021-11-10 15:36:11.664050 
+Name : WALeadApp 
+Version : 1.0.2021.11.11 
+Author : Faris Priadi 
+#######################################
+
+
+
+# PyInstaller
+
+
+
+# Inno Setup

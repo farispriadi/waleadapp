@@ -1,0 +1,20 @@
+<RCC>
+  <qresource prefix="icon">
+    <file alias="new">new.png</file>
+    <file alias="save">save.png</file>
+    <file alias="open">open.png</file>
+    <file alias="import">import.png</file>
+    <file alias="send">send.png</file>
+    <file alias="stop">stop.png</file>
+    <file alias="emoji">emoji.png</file>
+    <file alias="contacts">contacts.png</file>
+    <file alias="clip">clip.png</file>
+    <file alias="arrow_close">arrow_close.png</file>
+    <file alias="checked">checked.png</file>
+    <file alias="arrow">arrow.png</file>
+    <file alias="logo">waleadapp.png</file>
+    <file alias="summary">summary.png</file>
+    <file alias="emoji_open">emoji_open.png</file>
+    <file alias="emoji_close">emoji_closed.png</file>
+  </qresource>
+</RCC>

@@ -1,0 +1,8 @@
+# pyinstaller
+# run in root source  project that have requirements.txt
+sudo docker run -v "$(pwd):/src/" cdrx/pyinstaller-windows
+
+# inno setup
+# run in root source project (result of pyinstaller)
+# sudo docker run -v "$(pwd):/work/" amake/innosetup WALeadApp/innosetup_waleadapp.iss
+sudo docker run -v "$(pwd)/dist/windows:/work/" amake/innosetup WALeadApp/innosetup_waleadapp.iss
